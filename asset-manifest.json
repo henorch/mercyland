@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/mercyland/static/css/main.b95c0449.css",
-    "main.js": "/mercyland/static/js/main.7e64961b.js",
+    "main.css": "/mercyland/static/css/main.94e2f4a8.css",
+    "main.js": "/mercyland/static/js/main.d9d1f142.js",
     "static/js/453.35732501.chunk.js": "/mercyland/static/js/453.35732501.chunk.js",
+    "static/media/worship-image.jpg": "/mercyland/static/media/worship-image.e60f55332ed8c03f85b1.jpg",
     "static/media/yaya.jpg": "/mercyland/static/media/yaya.48f8fcca3ae605307660.jpg",
     "static/media/logo.svg": "/mercyland/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mercyland/index.html",
-    "main.b95c0449.css.map": "/mercyland/static/css/main.b95c0449.css.map",
-    "main.7e64961b.js.map": "/mercyland/static/js/main.7e64961b.js.map",
+    "main.94e2f4a8.css.map": "/mercyland/static/css/main.94e2f4a8.css.map",
+    "main.d9d1f142.js.map": "/mercyland/static/js/main.d9d1f142.js.map",
     "453.35732501.chunk.js.map": "/mercyland/static/js/453.35732501.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b95c0449.css",
-    "static/js/main.7e64961b.js"
+    "static/css/main.94e2f4a8.css",
+    "static/js/main.d9d1f142.js"
   ]
 }
