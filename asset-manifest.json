@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mercyland/static/css/main.13ca4cf0.css",
-    "main.js": "/mercyland/static/js/main.bbae01c2.js",
+    "main.js": "/mercyland/static/js/main.b5ff2e84.js",
     "static/js/453.35732501.chunk.js": "/mercyland/static/js/453.35732501.chunk.js",
     "static/media/prog.jpg": "/mercyland/static/media/prog.2fa96f7fc2c5dad4ba0a.jpg",
     "static/media/worship-image.jpg": "/mercyland/static/media/worship-image.e60f55332ed8c03f85b1.jpg",
@@ -10,11 +10,11 @@
     "static/media/logo.svg": "/mercyland/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mercyland/index.html",
     "main.13ca4cf0.css.map": "/mercyland/static/css/main.13ca4cf0.css.map",
-    "main.bbae01c2.js.map": "/mercyland/static/js/main.bbae01c2.js.map",
+    "main.b5ff2e84.js.map": "/mercyland/static/js/main.b5ff2e84.js.map",
     "453.35732501.chunk.js.map": "/mercyland/static/js/453.35732501.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13ca4cf0.css",
-    "static/js/main.bbae01c2.js"
+    "static/js/main.b5ff2e84.js"
   ]
 }
